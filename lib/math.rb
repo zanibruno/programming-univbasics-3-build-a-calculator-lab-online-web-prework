@@ -19,5 +19,5 @@ return num1%num2
 end
 
 def square_root(num)
-return interger.sqrt(num)
+return num 
 end
